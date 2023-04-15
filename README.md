@@ -1,6 +1,10 @@
 # basemap_plot
 **Introduction**
+
 突然找到自己大二时候画的中国植被分布图代码，所以整理了一下代码做记录。
+
+**Datasets**
+
 这是一个用Basemap库绘制分布的工程，部分相关数据放进了Datasets文件夹，来源如下。
 
 		数据集1:Land cover 植被数据
@@ -14,6 +18,15 @@
 		数据集3:中国地图数据
 		Source:http://www.diva-gis.org/datadown
 
+**Plot**
+
+效果还挺好看的
+
+![中国2016年TreeCover分布图]
+(https://raw.githubusercontent.com/ZhiyingChen/basemap_plot/main/images/Distribution%20of%20TC%20in%202016.png)
+
+![中国秦岭地区1983和2016年低矮云层四季分布对比图]
+(https://raw.githubusercontent.com/ZhiyingChen/basemap_plot/main/images/QL%20Distribution%20of%20LCC.png)
 
 **Environment Deployment**
 
