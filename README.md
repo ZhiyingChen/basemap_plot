@@ -21,16 +21,15 @@
 **Plot**
 
 效果还挺好看的
+
 中国2016年TreeCover分布图
 
-![image]
-(https://raw.githubusercontent.com/ZhiyingChen/basemap_plot/main/images/Distribution%20of%20TC%20in%202016.png)
+![image](https://raw.githubusercontent.com/ZhiyingChen/basemap_plot/main/images/Distribution%20of%20TC%20in%202016.png)
 
 
 中国秦岭地区1983和2016年低矮云层四季分布对比图
 
-![image]
-(https://raw.githubusercontent.com/ZhiyingChen/basemap_plot/main/images/QL%20Distribution%20of%20LCC.png)
+<img src="https://raw.githubusercontent.com/ZhiyingChen/basemap_plot/main/images/QL%20Distribution%20of%20LCC.png" style="width:700px; height:700px">
 
 **Environment Deployment**
 
